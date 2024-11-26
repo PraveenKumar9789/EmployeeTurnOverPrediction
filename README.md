@@ -1,0 +1,1 @@
+This project contains deep analysis about the Employee turnover rate and the key features which contributes for the Employee Turnover are used to train a predictive model which helps the organization to predict the percentage of Employees who are at risk of leaving the organization
